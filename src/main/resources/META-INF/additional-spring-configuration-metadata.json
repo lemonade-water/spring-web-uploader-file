@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "file.base-path",
+      "type": "java.lang.String",
+      "description": "文件上传服务器存储的路径"
+    }
+  ] }
